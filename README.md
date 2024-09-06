@@ -9,3 +9,6 @@ Using Python, I integrated the application logic and database operations. Python
 Additionally, I leveraged Flask’s templating engine, Jinja2, to dynamically render HTML pages with data fetched from the database, allowing farmers to view real-time information on their crops, resources, and sales.
 
 Overall, the combination of Python, Flask, and MySQL created a robust and scalable system that simplified farm management tasks, helping farmers make informed decisions and improve their productivity.
+Techstack: * PYTHON
+           * Mysql
+           * Flask
